@@ -14,16 +14,6 @@ app.use(express.static('static', {
     maxAge: 86400000 * 365
 }))
 
-// 如果上面的url没找到,则为目录
-// app.get(/.*/g, (req, res) => {
-//     let p = decodeURI(req.path)
-//     // 将req.path映射到本地路径
-//     fs.readdir('./public' + p, (err, files) => {
-//         let html = (files || []).map(f => `<a href="${p + f}">${f}<a>`).join('<br>')
-//         res.send(html);
-//     })
-// })
-
 
 
 app.all('/', (req, res, next) => res.redirect('/index.html'))
