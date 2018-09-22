@@ -9,7 +9,10 @@ const path = require('path')
 // 网盘文件
 app.use(express.static('public'))
 // html,css,js
-app.use(express.static('static'))
+app.use(express.static('static', {
+    // 365 days
+    maxAge: 86400000 * 365
+}))
 
 // 如果上面的url没找到,则为目录
 // app.get(/.*/g, (req, res) => {
