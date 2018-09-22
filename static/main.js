@@ -27,6 +27,11 @@
         {
             headerName: "Birth",
             field: "birth"
+        },
+        {
+            // 硬链接数(算入了目录下的所有文件?)
+            headerName: "Nlink",
+            field: "nlink"
         }
     ];
 
@@ -103,6 +108,7 @@ function render() {
     const rowData = fileList.map(f => ({
         // 使用Unicode字符
         type: f.path ? '\uf15b' : '\uf07c',
+        nlink: f.dirList ? f.nlink : undefined,
         name: f.name,
         size: f.size,
         birth: f.birthtime ? new Date(f.birthtime).toDateString() : undefined,

@@ -1,0 +1,463 @@
+Resource Name,RBS,Project Name,Activity Name,1,2,3,4,5,6
+Bai Xuemei,Z.PED.China.DEG,DEG_Basic Load NAE,test,0,13,108,137,128,28
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,DEG_eP_MT_ESS_II,0,0,49,15,1,0
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_EMS Production support,40,0,0,0,3,0
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_FMEA,20,10,0,0,4,8
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_Hardware development,81,91,0,0,0,66
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_Hardware testing,24,10,0,0,0,4
+,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_Validation and verification (EMC / Environm test),24,0,0,0,0,16
+,Z.PED.China.DEG,DEG_Generic development,DEG_Generic development,0,0,0,0,0,44
+Bai Xuemei 汇总,\,\,\,189,124,157,152,136,166
+Cao Cai,Z.PED.China.DEG,DEG_Basic Load NAE,,138,90,135,136,125,137
+Cao Cai,Z.PED.China.DEG,DEG_eP_MT_ESS_II,Document management,0,40,25,15,6,12
+Cao Cai,Z.PED.China.DEG,DEG_SystemMaster premium,Document management,0,0,0,1,7,4
+Cao Cai 汇总,\,\,\,138,130,160,152,138,153
+Chen Jun,Z.PED.China.DEG,DEG_Motor inverter application,Project management,24,160,170,156,177,168
+Chen Jun 汇总,\,\,\,24,160,170,156,177,168
+Chen Xiaohui,Z.PED.China.DEG,DEG_Basic Load NAE,,32,8.5,30,62,51,18
+,,DEG_SystemMaster premium,DEG_SystemMaster premium,0,0,0,0,0,33
+,,,E_Security,134,111.5,130,91,85,101
+Chen Xiaohui 汇总,\,\,\,166,120,160,153,136,152
+Chen Xiaoyan,Z.PED.Support.QMD,DEG_eP_MT_ESS_II,E_Project quality management (software),33,21,17,14,24,23
+,,DEG_Speedboat,E_Project quality management (software),23,13,9,12,26,16
+,,DEG_SystemMaster premium,E_Project quality management (software),33,18,10,19,85,73
+,,DEG_X_Spect,E_Project quality management (software),0,8,11,3,6,11
+,,Development Processes,Development Processes,0,0,0,11,4,4
+,,E_Others,E_Others,91,47,124,91,23,14
+,,E_PRF_2017-031_MD360,E_PRF_2017-031_MD360,0,0,0,0,0,3
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,0,0,4,0,12
+,,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,2,0,0,6,2,0
+Chen Xiaoyan 汇总,\,\,\,182,107,171,160,170,156
+Chen Yigang,Z.PED.China.DEG,DEG_Basic Load NAE,,43,34,0,40,34,0
+,,DEG_eP_MT_ESS_II,Project management,138,84,154,120,138,114
+,,DEG_Generic development,DEG_Generic development,0,0,22,0,0,40
+Chen Yigang 汇总,\,\,\,181,118,176,160,172,154
+"Chen, Chen (PED-DEGH)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,56,37
+,,DEG_SystemMaster premium,E_EMS Production support,0,0,0,0,0,4
+,,,E_Hardware development,0,0,0,0,115,113
+,,,E_Technology scouting,0,0,0,0,9,2
+"Chen, Chen (PED-DEGH) 汇总",\,\,\,0,0,0,0,180,156
+Cheng Guanghua,Z.PED.China.DEG,DEG_SystemMaster premium,System development (system and software),76,104,128,31,0,0
+,,GK IT-Störungen,GK IT-Störungen,76,0,0,0,0,0
+Cheng Guanghua 汇总,\,\,\,152,104,128,31,0,0
+Cheng Sipei,Z.PED.China.DEG,DEG_SystemMaster premium,E_Software development,0,0,0,0,0,168
+,,,E_Software testing,172,138,174,160,176,0
+Cheng Sipei 汇总,\,\,\,172,138,174,160,176,168
+DEG_ZS649_HW_NAE,Z.PED.PLAN.DEG_BP,DEG_SystemMaster premium,DEG_SystemMaster premium,0,0,0,0,0,0
+DEG_ZS649_HW_NAE 汇总,\,\,\,0,0,0,0,0,0
+Di Jiang,Z.PED.Support.QM,E_Others,E_Others,52,44,52,48,47,24
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,160,117,144,145,162,170
+Di Jiang 汇总,\,\,\,212,161,196,193,209,194
+"Dong, Aihua (PED-DEGH)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,83,30,30
+,,DEG_eP_MT_ESS_II,E_Mechanical development,0,0,0,0,0,20
+,,DEG_SystemMaster premium,E_Mechanical development,0,0,0,0,50,10
+,,DEG_X_Spect,DEG_X_Spect,0,0,0,0,80,0
+,,,E_Mechanical development,0,0,0,60,0,80
+"Dong, Aihua (PED-DEGH) 汇总",\,\,\,0,0,0,143,160,140
+Duan Jun,Z.PED.Support.QM_Nae,DEG_eP_MT_ESS_II,E_Project quality management (system),31,30,22,17,13,0
+,,DEG_Speedboat,DEG_Speedboat,22,13,1,3,0,0
+,,DEG_SystemMaster premium,E_Project quality management (system),0,1,1,22,16,30
+,,"Development Methods (FMEA, 8D, KVP)","Development Methods (FMEA, 8D, KVP)",0,0,0,6,30,20
+,,Development Processes,Development Processes,0,0,0,28,18,10
+,,E_Others,E_Others,63,35,76,47,14,25
+,,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,0,0,4,1,0,0
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,0,5,2,2,0
+,,FEDNa_PH000528_PH_Timer III,FEDNa_PH000528_PH_Timer III,0,0,1,0,0,0
+,,FEDNa_PH000641_PH_Timer III,FEDNa_PH000641_PH_Timer III,0,0,1,0,0,0
+,,FEDNa_PH000671_BLDC_PM01,FEDNa_PH000671_BLDC_PM01,0,0,1,0,0,0
+,,FEDNa_PH000803_TC01 SE Enhance Pillow,FEDNa_PH000803_TC01 SE Enhance Pillow,0,0,1,0,0,0
+,,FEDNa_Team Management,FEDNa_Team Management,35,30,46,54,92,90
+,,"Training & Coaching (FMEA, Agile, 8D, KVP, Proz.)","Training & Coaching (FMEA, Agile, 8D, KVP, Proz.)",0,0,0,0,2,10
+Duan Jun 汇总,\,\,\,151,109,159,180,187,185
+Duan Zongwei,Z.PED.Support.QMRP,DEG_Basic Load NAE,,0,0,0,0,14,0
+,,E_Others,E_Others,0,0,1,0,0,0
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,101,127,82,109,42
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,0,122,0,8,18,63
+,,LC BEP Serie PUMU,LC BEP Serie PUMU,0,68,36,63,31,51
+,,LC BEP_ADM_DU,LC BEP_ADM_DU,0,5,14,15,12,12
+Duan Zongwei 汇总,\,\,\,0,296,178,168,184,168
+Feng Junhong,Z.PED.Support.QMRP,DEG_Speedboat,E_Production planning,54,42,30,73,40,24.5
+,,DEG_X_Spect,E_Production planning,0,23,76,46,34,64
+,,E_Others,E_Others,25,2,29,10,53,21.5
+,,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,0,0,0,0,0,17
+,,E_PCG_PH000960_CVD1101_Wave2,E_PCG_PH000960_CVD1101_Wave2,0,0,0,0,0,18
+,,E_PRF_2017-043_CP310 2nd source CN,E_PRF_2017-043_CP310 2nd source CN,9,3,0,0,0,0
+,,FEDNa_2013-50_EA150,FEDNa_2013-50_EA150,0,0,0,0,0,1
+,,FEDNa_2013-50_MD302,FEDNa_2013-50_MD302,37,4,8,2,0,0
+,,FEDNa_2013-50_SM210,FEDNa_2013-50_SM210,13,1,6,13,0,0
+,,FEDNa_PH000671_BLDC_PM01,FEDNa_PH000671_BLDC_PM01,0,0,0,0,0,4
+,,FEDNa_PRF_GC EMS Mass Production,FEDNa_PRF_GC EMS Mass Production,24,7,12,16,25,10
+,,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,14,6,7,0,20,0
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,0,0,0,0,1
+Feng Junhong 汇总,\,\,\,176,88,168,160,172,161
+Ge Bo,Z.PED.China.DEG,DEG_Basic Load NAE,,101,0,0,0,0,0
+,,DEG_Speedboat,DEG_Speedboat,0,0,0,0,12,0
+,,,E_Hardware development,87,82,120.5,0,0,0
+,,DEG_X_Spect,E_Hardware development,0,39,88.5,77.5,12,0
+Ge Bo 汇总,\,\,\,188,121,209,77.5,24,0
+Guan Yixin,Z.PED.NA,D_Lifecycle Management,D_Lifecycle Management,0,2,21,5,4,2
+,,D_QMM,D_QMM,92,20,12,0,8,15
+,,E_Others,E_Others,0,67,138,125,0,0
+,,E_QMM,E_QMM,36,24,22,40,70,72
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,4,0,0,0,3
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,0,1,4,0,100,78
+,,FEDNa_Team Management,FEDNa_Team Management,0,11,0,0,8,8
+Guan Yixin 汇总,\,\,\,128,129,197,170,190,178
+Hu Xiaobing,Z.PED.Support.QMS,"KST Employees meetings, info events and briefings","KST Employees meetings, info events and briefings",0,0,1,0,0,0
+,,KST Training and further qualification activities,KST Training and further qualification activities,0,3,13,0,0,0
+,,KST Working teams and user groups,KST Working teams and user groups,13,3,4,0,1,0
+,,QMS Component Complaints,QMS Component Complaints,3,27,2,0,0,2
+,,QMS Component Release,QMS Component Release,31,27,39,34,53,31
+,,QMS Component Strategy,QMS Component Strategy,2,7,22,6,5,19
+,,QMS Component Supplier Audit,QMS Component Supplier Audit,43,13,32,131,62,8
+,,QMS Component Supplier Quick Scan,QMS Component Supplier Quick Scan,24,0,0,0,0,0
+,,QMS Component Test,QMS Component Test,0,0,9,0,0,0
+,,QMS Data Administration,QMS Data Administration,0,1,0,1,4,43
+,,QMS PCN Handling,QMS PCN Handling,2,6,17,2,24,12
+,,QMS Process Support,QMS Process Support,0,2,0,0,0,0
+,,QMS Project Support PLC,QMS Project Support PLC,30,0,5,0,0,0
+,,QMS Regular Supplier Meeting,QMS Regular Supplier Meeting,20,26,32,13,29,46
+,,QMS Task Force,QMS Task Force,0,1,0,0,1,12
+Hu Xiaobing 汇总,\,\,\,168,116,176,187,179,173
+Huang Xinhui,Z.PED.China.DEG,E_Others,E_Others,0,0,0,0,0,99
+,,E_PRF_2017-031_MD360,E_PRF_2017-031_MD360,0,0,0,0,0,26
+,,E_PRF_2017-043_CP310 2nd source CN,E_PRF_2017-043_CP310 2nd source CN,0,0,0,0,0,16
+,,FEDNa_2013-50_CP150_MR,FEDNa_2013-50_CP150_MR,0,0,0,0,0,1
+,,FEDNa_2013-50_EA100,FEDNa_2013-50_EA100,0,0,0,0,0,1
+,,FEDNa_2013-50_EA150,FEDNa_2013-50_EA150,0,0,0,0,0,1
+,,FEDNa_2013-50_SM210,FEDNa_2013-50_SM210,0,0,0,0,0,1
+,,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,0,0,0,0,0,7
+Huang Xinhui 汇总,\,\,\,0,0,0,0,0,152
+Jiang Lin,Z.PED.Support.QMRP,DEG_Basic Load NAE,,0,0,0,0,16,0
+,,DEG_eP_MT_ESS_II,E_Production planning,11,4,12,33,49,36
+,,E_Others,E_Others,35,14,0,37,0,0
+,,E_PRF_2017-031_MD360,E_PRF_2017-031_MD360,0,0,0,8,4,5
+,,E_PRF_2017-043_CP310 2nd source CN,E_PRF_2017-043_CP310 2nd source CN,15,10,40,37,89.5,20
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,24,12,44,27,32,38
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,82,53,59,4,0,17
+,,RF CPM 5 GEN1,RF CPM 5 GEN1,2,3,2,9,0,6
+,,RF UIM AD620,RF UIM AD620,3,0,1,0,0,41
+,,RF UIM MD310,RF UIM MD310,6,28,24,5,0,6
+,,RF UIM MD320,RF UIM MD320,3,7,5,7,0,1
+Jiang Lin 汇总,\,\,\,181,131,187,167,190.5,170
+Jing Yuwen,Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,19,0
+,,DEG_eP_MT_ESS_II,E_Hardware development,12,6,0,0,0,0
+,,DEG_Generic development,DEG_Generic development,0,0,0,0,94,181
+,,DEG_Lifecycle Management,LM_Quality improvement,32,36,70,60,0,0
+,,,LM_Series support,44,36,85,65.15,0,0
+,,DEG_PRF UIM module,E_Hardware development,115,62,66,60,25,0
+,,,E_Prototyping,0,0,0,0,57,0
+,,,E_Technology scouting,0,0,0,0,4,0
+Jing Yuwen 汇总,\,\,\,203,140,221,185.15,199,181
+Lei Dongyong,Z.PED.China.DEG,DEG_Basic Load NAE,,52,39,0,0,0,0
+,,DEG_eP_MT_ESS_II,E_Technology scouting,2,0,0,0,0,0
+,,DEG_Generic development,DEG_Generic development,137,88,172,163,195,205
+,,DEG_Motor inverter application,E_Technology scouting,20,3,0,0,0,0
+Lei Dongyong 汇总,\,\,\,211,130,172,163,195,205
+Li Jiajun,Z.PED.China.DEG,DEG_Basic Load NAE,,88,3,8,0,15,14
+,,DEG_SystemMaster premium,DEG_SystemMaster premium,0,0,0,0,0,109
+,,,E_Hardware development,80,133,182,157,177,15
+,,DEG_X_Spect,E_Hardware development,0,0,0,0,0,41
+Li Jiajun 汇总,\,\,\,168,136,190,157,192,179
+Li Pan,Z.PED.Support.QMS,"KST Employees meetings, info events and briefings","KST Employees meetings, info events and briefings",15,2,7,4,8,6
+,,KST Other activities for Cost Center,KST Other activities for Cost Center,0,1,0,4,0,0
+,,KST Training and further qualification activities,KST Training and further qualification activities,0,0,8,6,12,6
+,,QMS Component Complaints,QMS Component Complaints,6,6,4,7,5,0
+,,QMS Component Release,QMS Component Release,30,12,29,30,35,28
+,,QMS Component Strategy,QMS Component Strategy,13,6,16,6,17,28
+,,QMS Component Supplier Audit,QMS Component Supplier Audit,38,10,16,29,6,13
+,,QMS Component Test,QMS Component Test,18,9,14,17,19,10
+,,QMS PCN Handling,QMS PCN Handling,0,3,4,0,0,0
+,,QMS Process Support,QMS Process Support,0,0,2,4,4,5
+,,QMS Project Support PCG,QMS Project Support PCG,13,7,13,11,20,18
+,,QMS Project Support PLC,QMS Project Support PLC,0,5,29,5,7,0
+,,QMS Project Support PRF,QMS Project Support PRF,20,10,22,16,22,17
+,,QMS Regular Supplier Meeting,QMS Regular Supplier Meeting,19,13,17,17,26,22
+,,QMS Task Force,QMS Task Force,4,2,12,8,10,12
+Li Pan 汇总,\,\,\,176,86,193,164,191,165
+Li Xuyuan,Z.PED.China.DEG,DEG_Basic Load NAE,,25,6,158,124,121,0
+,,DEG_Generic development,DEG_Generic development,120,0,0,1,5,93
+,,DEG_Speedboat,E_Hardware development,0,94,8,4,2,0
+,,,E_Hardware testing,0,0,0,0,0,2
+,,DEG_SystemMaster premium,E_Hardware development,30,1,0,31,13,3
+,,,E_Technology scouting,0,0,0,0,11,33
+Li Xuyuan 汇总,\,\,\,175,101,166,160,152,131
+Liu Jin,Z.PED.China.DEG,DEG_SystemMaster premium,E_Software development,169,100,160,146,176,163
+,,DEG_SystemMaster_basic and extended,E_Software development,0,31,0,0,0,0
+Liu Jin 汇总,\,\,\,169,131,160,146,176,163
+Liu Jing,Z.PED.China.DEG,DEG_Basic Load NAE,,154,129,154,107,73.5,93
+,,DEG_Generic development,DEG_Generic development,22,7,18,16,0,0
+,,DEG_Speedboat,E_Software development,0,0,0,37,0,0
+,,,E_Software testing,0,0,0,0,8,0
+,,E_PRF_2017-031_MD360,E_Software development,0,0,0,0,86.5,43
+Liu Jing 汇总,\,\,\,176,136,172,160,168,136
+Liu Tao,Z.PED.China.DEG,DEG_Basic Load NAE,,8,0,0,0,0,0
+,,DEG_X_Spect,Others,120,168,176,84,8,0
+Liu Tao 汇总,\,\,\,128,168,176,84,8,0
+Liu Ye,Z.PED.China.DEG,DEG_Basic Load NAE,,23,17,86,0,0,0
+,,DEG_Speedboat,E_Software development,172,74,0,0,0,0
+Liu Ye 汇总,\,\,\,195,91,86,0,0,0
+"Liu, Saiya (PED-DEGS)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,43,12,22
+,,DEG_SystemMaster premium,E_Software development,0,0,0,32,164,130
+"Liu, Saiya (PED-DEGS) 汇总",\,\,\,0,0,0,75,176,152
+"Lv, Fei (PED-DEGS)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,20,21
+,,DEG_SystemMaster premium,E_Software development,0,0,0,0,33,107
+,,,E_Software testing,0,0,0,0,3,32
+"Lv, Fei (PED-DEGS) 汇总",\,\,\,0,0,0,0,56,160
+Ma Jun,Z.PED.China.DEG,DEG_SystemMaster premium,E_Software development,168,108,176,160,178,168
+Ma Jun 汇总,\,\,\,168,108,176,160,178,168
+Pan Kunmin,Z.PED.Support.QM_Nae,E_Others,E_Others,0,0,8,70,0,0
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,152,110,168,90,160,163
+Pan Kunmin 汇总,\,\,\,152,110,176,160,160,163
+Pang Zhipeng,Z.PED.China.DEG,DEG_Basic Load NAE,,3,0,0,0,0,0
+,,DEG_eP_MT_ESS_II,DEG_eP_MT_ESS_II,0,0,0,0,0,4
+,,,E_Software development,84,30,176,160,176,80
+,,DEG_Generic development,DEG_Generic development,89,68,0,0,0,80
+Pang Zhipeng 汇总,\,\,\,176,98,176,160,176,164
+Qian Yang,Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,80,0
+,,DEG_SystemMaster_basic and extended,E_Software development,88,78,88,84,40,80
+,,,E_Software testing,88,78,88,84,24,80
+Qian Yang 汇总,\,\,\,176,156,176,168,144,160
+"Qian, Zhentao (PED-DEGH)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,24,92,78
+,,DEG_Lifecycle Management,LM_Quality improvement,0,0,0,24,88,83
+,,,LM_Series support,0,0,0,24,0,0
+"Qian, Zhentao (PED-DEGH) 汇总",\,\,\,0,0,0,72,180,161
+Qiao Shouhua,Z.PED.China.DEG,DEG_SystemMaster premium,E_Production planning,0,0,0,0,0,26
+,,E_Others,E_Others,0,0,0,0,0,132
+Qiao Shouhua 汇总,\,\,\,0,0,0,0,0,158
+Qu Dean,Z.PED.China.DEG,DEG_Basic Load NAE,,30,0,0,0,0,0
+,,DEG_eP_MT_ESS_II,E_System testing,26,56,68,40,0,0
+,,DEG_Generic development,DEG_Generic development,25,33,22,0,46,22
+,,DEG_Speedboat,E_System testing,85,38,88,114,64,44
+,,DEG_SystemMaster premium,E_System testing,0,0,22,40,100,96
+,,RF_Sbtr/VarEntw,RF_Sbtr/VarEntw,41,0,0,0,0,0
+Qu Dean 汇总,\,\,\,207,127,200,194,210,162
+Ren Ying,Z.PED.Support.QM_Nae,DEG_Basic Load NAE,,0,0,0,0,6,0
+,,DEG_eP_MT_ESS_II,E_Quality testing,0,77,31,25,8,26
+,,DEG_SystemMaster premium,E_Quality testing,0,0,0,0,6,7
+,,DEG_X_Spect,E_Quality testing,0,0,0,0,6,3
+,,E_Others,E_Others,0,165,90,68,95,65
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,0,63,47,33,37
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,0,47,3,0,7,38
+Ren Ying 汇总,\,\,\,0,289,187,140,161,176
+Shadrin Andrey_DEG,Z.PED.China.DEG,DEG_SystemMaster premium,Project management,184,160,136,136,112,152
+Shadrin Andrey_DEG 汇总,\,\,\,184,160,136,136,112,152
+Shan Hao,Z.PED.China.DEG,DEG_SystemMaster_basic and extended,E_Software development,84,48,80,88,92,80
+,,,E_Software testing,80,40,80,80,46,80
+Shan Hao 汇总,\,\,\,164,88,160,168,138,160
+Shen Yixin,Z.PED.China.DEG,DEG_Basic Load NAE,,100,72,176,152,152,8
+,,DEG_eP_MT_ESS_II,E_Software development,82,64,0,0,0,16
+,,DEG_Generic development,DEG_Generic development,0,0,0,0,0,136
+Shen Yixin 汇总,\,\,\,182,136,176,152,152,160
+Sun Chenchen,Z.PED.China.DEG,DEG_Basic Load NAE,,86,56,88,80,2,2
+,,DEG_Motor inverter application,E_Software development,86,56,88,80,150,116
+,,,Requirement development,0,0,0,0,0,4
+Sun Chenchen 汇总,\,\,\,172,112,176,160,152,122
+Sun Kai,Z.PED.China.DEG,DEG_eP_MT_ESS_II,E_Software development,107,68,15,67,55,36
+,,DEG_Speedboat,E_Software development,77,17,14,72,75,34
+,,DEG_X_Spect,E_Software development,0,27,27,21,38,18
+Sun Kai 汇总,\,\,\,184,112,56,160,168,88
+Sun Tao,Z.PED.China.DEG,DEG_Basic Load NAE,,0,52,0,56,128,0
+,,DEG_Motor inverter application,E_Hardware development,134,52,152,104,24,161
+,,,E_Hardware testing,0,0,0,0,0,4
+,,,Requirement development,50,0,0,0,0,12
+Sun Tao 汇总,\,\,\,184,104,152,160,152,177
+"Tang, Guoyuan (PED-DEGS)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,138,133
+,,DEG_Generic development,DEG_Generic development,0,0,0,0,0,33
+"Tang, Guoyuan (PED-DEGS) 汇总",\,\,\,0,0,0,0,138,166
+"Tian, Xiaoyan (PED-DEGS)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,16,104,40
+,,DEG_eP_MT_ESS_II,E_Software development,0,0,0,0,0,60
+,,,E_Software testing,0,0,0,151,70,60
+"Tian, Xiaoyan (PED-DEGS) 汇总",\,\,\,0,0,0,167,174,160
+Wan Yuanqing,Z.PED.Support.QMD,E_Others,E_Others,0,25,11,0,0,0
+,,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,144,134,65,89,0,0
+,,E_PCG_PH000960_CVD1101_Wave2,E_PCG_PH000960_CVD1101_Wave2,0,0,4,54,0,0
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,0,3,20,0,0
+,,FEDNa_PH000641_PH_Timer III,FEDNa_PH000641_PH_Timer III,0,1,0,0,0,0
+Wan Yuanqing 汇总,\,\,\,144,160,83,163,0,0
+Wang Hongyu,Z.PED.China.DEG,DEG_Basic Load NAE,,24,0,0,2,2,0
+,,DEG_Generic development,DEG_Generic development,0,0,0,10,75,0
+,,DEG_X_Spect,Project management,0,0,176,60,88,0
+Wang Hongyu 汇总,\,\,\,24,0,176,72,165,0
+Wang Huijuan,Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,53,48
+,,DEG_eP_MT_ESS_II,E_Software development,0,64,76,16,0,0
+,,DEG_Motor inverter application,E_Software development,40,72,100,144,120,80
+,,,Requirement development,0,0,0,0,0,40
+,,DEG_SystemMaster premium,E_Software development,48,0,0,0,0,0
+Wang Huijuan 汇总,\,\,\,88,136,176,160,173,168
+Wang Rongjun,Z.PED.Support.QMS,"KST Employees meetings, info events and briefings","KST Employees meetings, info events and briefings",0,0,23,15,30,9
+,,KST Training and further qualification activities,KST Training and further qualification activities,0,0,8,16,0,0
+,,"KST Training new employees, orientation","KST Training new employees, orientation",0,0,0,0,20,0
+,,QMS Component Complaints,QMS Component Complaints,44,36,0,42,50,25
+,,QMS Component Release,QMS Component Release,66,0,31,25,30,26
+,,QMS Component Supplier Audit,QMS Component Supplier Audit,24,16,18,20,30,88
+,,QMS PCN Handling,QMS PCN Handling,20,8,20,15,0,8
+,,QMS Project Support ePACT,QMS Project Support ePACT,6,0,0,0,0,0
+,,QMS Project Support PCG,QMS Project Support PCG,9,12,25,11,0,2
+,,QMS Project Support PCP,QMS Project Support PCP,0,12,0,5,0,0
+,,QMS Project Support PRF,QMS Project Support PRF,7,20,26,13,0,0
+,,QMS Regular Supplier Meeting,QMS Regular Supplier Meeting,0,0,4,0,30,0
+,,QMS Task Force,QMS Task Force,0,0,0,16,20,8
+Wang Rongjun 汇总,\,\,\,176,104,155,178,210,166
+Wang Xiang,Z.PED.China.DEG,DEG_Basic Load NAE,,72,43,87,16,92,96
+,,DEG_Speedboat,Project management,104,60,88,152,90,80
+Wang Xiang 汇总,\,\,\,176,103,175,168,182,176
+Wang Yueyin,Z.PED.Support.QM_Nae,E_Others,E_Others,0,0,6,15,13,9
+,,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,0,90,54,98,89,31
+,,E_PCG_PH000960_CVD1101_Wave2,E_PCG_PH000960_CVD1101_Wave2,0,0,4,0,18,46
+,,FEDNa_PCG_GC EMS Mass Production,FEDNa_PCG_GC EMS Mass Production,0,42,0,25,17,26
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,50,28,27,19,34
+,,"FEDNa_PH000516_Decorative1 (C5041, C5048, C5051)","FEDNa_PH000516_Decorative1 (C5041, C5048, C5051)",0,3,29,12,0,1
+,,FEDNa_PH000528_PH_Timer III,FEDNa_PH000528_PH_Timer III,0,11,8,1,0,3
+,,FEDNa_PH000641_PH_Timer III,FEDNa_PH000641_PH_Timer III,0,0,3,3,1,2
+,,FEDNa_PH000671_BLDC_PM01,FEDNa_PH000671_BLDC_PM01,0,9,6,2,2,4
+,,FEDNa_PH000671_TC01 SE 3rd Gen. OPB,FEDNa_PH000671_TC01 SE 3rd Gen. OPB,0,14,27,26,13,14
+,,FEDNa_PH000671_TC02 SE,FEDNa_PH000671_TC02 SE,0,4,3,0,0,0
+,,FEDNa_PH000821_TC01_BO,FEDNa_PH000821_TC01_BO,0,0,6,1,2,0
+,,"FEDNa_PH000849_H_US_Vent (TC04,PM02)","FEDNa_PH000849_H_US_Vent (TC04,PM02)",0,32,14,16,26,12
+,,FEDNa_PH000859_TC02_BO_AC,FEDNa_PH000859_TC02_BO_AC,0,2,0,0,0,0
+,,FEDNa_PH000959_TC02 SE&BO DC,FEDNa_PH000959_TC02 SE&BO DC,0,6,0,0,0,0
+,,FEDNa_PH000960_CVD1007,FEDNa_PH000960_CVD1007,0,1,10,12,3,10
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,0,2,0,0,0
+Wang Yueyin 汇总,\,\,\,0,264,200,238,203,192
+"Wang, Xinzhen (PED-DEGY)",Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,59,25
+,,DEG_SystemMaster premium,Project management,0,0,0,0,0,87
+,,DEG_X_Spect,Project management,0,0,0,0,0,62
+"Wang, Xinzhen (PED-DEGY) 汇总",\,\,\,0,0,0,0,59,174
+Wu lei,Z.PED.Support.QM_Nae,DEG_eP_MT_ESS_II,DEG_eP_MT_ESS_II,0,0,0,0,0,43
+,,,E_FMEA,6,8,2,2,3,39
+,,DEG_Speedboat,E_Project quality management (system),7,5,36,37,19,22
+,,"Development Methods (FMEA, 8D, KVP)","Development Methods (FMEA, 8D, KVP)",0,0,0,5,62,1
+,,Development Processes,Development Processes,0,0,0,0,5,0
+,,E_Others,E_Others,34,16,63,19,8,12
+,,E_PRF_2017-031_MD360,E_PRF_2017-031_MD360,0,0,0,1,31,15
+,,E_PRF_2017-043_CP310 2nd source CN,E_PRF_2017-043_CP310 2nd source CN,47,39,24,35,22,16
+,,FEDNa_2013-50_CP150_MR,FEDNa_2013-50_CP150_MR,0,3,0,21,6,3
+,,FEDNa_2013-50_EA100,FEDNa_2013-50_EA100,0,0,0,1,1,2
+,,FEDNa_2013-50_EA150,FEDNa_2013-50_EA150,5,5,4,1,2,2
+,,FEDNa_2013-50_MD211,FEDNa_2013-50_MD211,0,0,0,1,0,0
+,,FEDNa_2013-50_MD302,FEDNa_2013-50_MD302,28,9,9,3,0,1
+,,FEDNa_2013-50_MD330,FEDNa_2013-50_MD330,7,1,1,6,0,0
+,,FEDNa_2013-50_MD420_BO,FEDNa_2013-50_MD420_BO,1,0,16,3,0,0
+,,FEDNa_2013-50_MD420_SE,FEDNa_2013-50_MD420_SE,0,0,0,0,5,0
+,,FEDNa_2013-50_SM210,FEDNa_2013-50_SM210,33,16,16,13,5,9
+,,FEDNa_PRF_GC EMS Mass Production,FEDNa_PRF_GC EMS Mass Production,4,0,0,0,0,0
+,,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,0,7,10,5,4,2
+Wu lei 汇总,\,\,\,172,109,181,153,173,167
+Wu Tianlu,Z.PED.China.DEG,DEG_Basic Load NAE,,0,31,32,35,80,64
+,,DEG_Generic development,DEG_Generic development,220,40,125,118,75,67.5
+,,DEG_Motor inverter application,E_Hardware development,0,0,0,0,65,33
+,,,Requirement development,0,0,0,0,0,34
+,,DEG_Speedboat,E_Hardware testing,0,0,0,0,0,3
+,,,E_Validation and verification (EMC / Environm test),0,23,55,35,0,0
+Wu Tianlu 汇总,\,\,\,220,94,212,188,220,201.5
+0.2,Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,0,19
+,,DEG_Generic development,DEG_Generic development,0,0,0,0,0,73
+,,DEG_Motor inverter application,E_Software development,0,0,0,0,0,4
+0.2 汇总,\,\,\,0,0,0,0,0,96
+Xie Bingchuan,Z.PED.China.DEG,DEG_Basic Load NAE,,0,0,0,0,46,91
+,,DEG_eP_MT_ESS_II,E_EMS Production support,0,0,0,0,40,0
+,,,E_Hardware development,0,36,8,0,0,0
+,,DEG_Lifecycle Management,LM_Quality improvement,49,68,128,100,72,41
+,,,LM_Series support,0,0,40,70.5,56,24
+,,DEG_Motor inverter application,E_Hardware development,0,24,0,0,0,30
+Xie Bingchuan 汇总,\,\,\,49,128,176,170.5,214,186
+Xu Chao,Z.PED.Support.QM_Nae,E_Others,E_Others,12,4,4,6,0,4
+Xu Chao,Z.PED.Support.QM_Nae,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,20,44,4,0,6,20
+Xu Chao,Z.PED.Support.QM_Nae,E_PCG_PH000960_CVD1101_Wave2,E_PCG_PH000960_CVD1101_Wave2,0,12,2,37,62,15.5
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,2,0,22,25,32,20
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000516_Bosch Ring (C5057),FEDNa_PH000516_Bosch Ring (C5057),0,4,0,0,0,0
+Xu Chao,Z.PED.Support.QM_Nae,"FEDNa_PH000516_Ceiling (C5061, C5062)","FEDNa_PH000516_Ceiling (C5061, C5062)",88,40,64,51,30,30
+Xu Chao,Z.PED.Support.QM_Nae,"FEDNa_PH000516_Decorative (C5049, C5050, C5052)","FEDNa_PH000516_Decorative (C5049, C5050, C5052)",0,0,0,8,0,0
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000671_TC01 SE 3rd Gen. OPB,FEDNa_PH000671_TC01 SE 3rd Gen. OPB,0,0,0,4,9,20
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000671_TC02 SE,FEDNa_PH000671_TC02 SE,0,2,10,0,0,26
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000803_TC01 SE Enhance Pillow,FEDNa_PH000803_TC01 SE Enhance Pillow,4,0,12,0,2,0
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000821_TC01_BO,FEDNa_PH000821_TC01_BO,0,0,18,0,9,8
+Xu Chao,Z.PED.Support.QM_Nae,"FEDNa_PH000849_H_US_Vent (TC04,PM02)","FEDNa_PH000849_H_US_Vent (TC04,PM02)",14,2,8,0,8,4
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000859_TC02_BO_AC,FEDNa_PH000859_TC02_BO_AC,20,0,8,17,0,0
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000859_TC03 SE,FEDNa_PH000859_TC03 SE,0,0,12,0,0,8
+Xu Chao,Z.PED.Support.QM_Nae,FEDNa_PH000959_TC02 SE&BO DC,FEDNa_PH000959_TC02 SE&BO DC,16,0,12,4,2,0
+Xu Chao 汇总,\,\,\,176,108,176,152,160,155.5
+Xue Lin,Z.PED.Support.QMRP,DC CPM_III_Redesign UC,DC CPM_III_Redesign UC,0,89,43,66,72,56
+,,E_Others,E_Others,0,44,50,41,48,30
+,,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,103,48,37,58,30
+,,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,0,35,19,15,23,11
+Xue Lin 汇总,\,\,\,0,271,160,159,201,127
+Yang Jia,Z.PED.China.DEG,DEG_Generic development,DEG_Generic development,0,0,0,32,0,0
+,,DEG_SystemMaster premium,E_Technology scouting,83,32,45,32,8,0
+,,,Requirement development,0,32,92,64,104,96
+,,,System development (system and software),90,32,45,32,64,72
+Yao Shuyan,Z.PED.Support.QMRP,CG SP200,CG SP200,0,0,0,0,0,1
+Yao Shuyan,Z.PED.Support.QMRP,D_Lifecycle Management,D_Lifecycle Management,0,6,0,0,21,6
+Yao Shuyan,Z.PED.Support.QMRP,DC CPM_III_Redesign UC,DC CPM_III_Redesign UC,0,0,1,1,0,1
+Yao Shuyan,Z.PED.Support.QMRP,DEG_eP_MT_ESS_II,DEG_eP_MT_ESS_II,0,7,5,1,0,0
+Yao Shuyan,Z.PED.Support.QMRP,DEG_Speedboat,DEG_Speedboat,0,7,2,1,3,0
+Yao Shuyan,Z.PED.Support.QMRP,,E_Production planning,0,0,0,0,0,1
+Yao Shuyan,Z.PED.Support.QMRP,DEG_SystemMaster premium,E_Production planning,0,0,0,6,16,22
+Yao Shuyan,Z.PED.Support.QMRP,DEG_X_Spect,DEG_X_Spect,0,2,1,1,0,0
+Yao Shuyan,Z.PED.Support.QMRP,E_Others,E_Others,0,32,23,23,39,19
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_2013-50_MD330,FEDNa_2013-50_MD330,0,0,0,2,0,0
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PCG_GC EMS Mass Production,FEDNa_PCG_GC EMS Mass Production,0,13,19,16,6,7
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,5,3,2,10,7
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PCP_GC quality support,FEDNa_PCP_GC quality support,0,1,3,2,9,6
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PRF_GC EMS Mass Production,FEDNa_PRF_GC EMS Mass Production,0,24,16,17,9,11
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,0,22,11,7,18,15
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PXX_EU EMS Mass Production,FEDNa_PXX_EU EMS Mass Production,0,49,32,22,7,15
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_PXX_EU Quality Support,FEDNa_PXX_EU Quality Support,0,58,17,26,17,15
+Yao Shuyan,Z.PED.Support.QMRP,FEDNa_Team Management,FEDNa_Team Management,0,66,44,35,46,42
+Yao Shuyan,Z.PED.Support.QMRP,LC BEP Serie PUMU,LC BEP Serie PUMU,0,0,0,4,0,1
+Yao Shuyan,Z.PED.Support.QMRP,RF CPM 5 GEN1,RF CPM 5 GEN1,0,0,1,1,0,0
+Yao Shuyan,Z.PED.Support.QMRP,RF UIM AD620,RF UIM AD620,0,0,0,1,0,0
+Yao Shuyan,Z.PED.Support.QMRP,RF UIM MD320,RF UIM MD320,0,0,1,1,0,0
+Yao Shuyan,Z.PED.Support.QMRP,,,0,292,179,169,201,169
+Yu Fang,Z.PED.Support.QMS,GK Move@PED,GK Move@PED,38,2,1,0,3,0
+,,"KST Employees meetings, info events and briefings","KST Employees meetings, info events and briefings",12,9,17,17,27,19
+,,KST Other activities for Cost Center,KST Other activities for Cost Center,28,64,54,37,22,29
+,,KST Training and further qualification activities,KST Training and further qualification activities,0,2,1,0,8,0
+,,"KST Training new employees, orientation","KST Training new employees, orientation",0,0,0,0,0,12
+,,QMS Component Complaints,QMS Component Complaints,36,7,15,16,12,35
+,,QMS Component Release,QMS Component Release,20,2,2,9,30,16
+,,QMS Component Strategy,QMS Component Strategy,8,11,21,18,36,22
+,,QMS Component Supplier Audit,QMS Component Supplier Audit,22,15,51,97,16,0
+,,QMS Process Support,QMS Process Support,0,0,0,0,0,8
+,,QMS Project Support ePACT,QMS Project Support ePACT,0,1,0,0,25,12
+,,QMS Regular Supplier Meeting,QMS Regular Supplier Meeting,12,0,0,2,2,12
+,,QMS Task Force,QMS Task Force,0,0,0,0,0,4
+Yu Fang 汇总,\,\,\,176,113,162,196,181,169
+Zhan Haosong,Z.PED.Support.QM_Nae,E_Others,E_Others,81,26,0,0,0,0
+,,E_PCG_PH000735_CVD1101_Wave1,E_PCG_PH000735_CVD1101_Wave1,18,17,0,0,0,0
+,,E_PCG_PH000960_CVD1101_Wave2,E_PCG_PH000960_CVD1101_Wave2,4,0,0,0,0,0
+,,FEDNa_2013-50_SM210,FEDNa_2013-50_SM210,17,13,0,0,0,0
+,,"FEDNa_PH000516_Ceiling (C5061, C5062)","FEDNa_PH000516_Ceiling (C5061, C5062)",15,10,0,0,0,0
+,,"FEDNa_PH000849_H_US_Vent (TC04,PM02)","FEDNa_PH000849_H_US_Vent (TC04,PM02)",8,4,0,0,0,0
+,,FEDNa_PH000960_CVD1007,FEDNa_PH000960_CVD1007,0,2,0,0,0,0
+,,FEDNa_PRF_GC quality support,FEDNa_PRF_GC quality support,17,0,0,0,0,0
+Zhan Haosong 汇总,\,\,\,160,72,0,0,0,0
+Zhang Guorui,Z.PED.Support.QM_Nae,E_Others,E_Others,0,24,0,0,0,0
+,,FEDNa_PCG_GC Quality Support,FEDNa_PCG_GC Quality Support,0,214,164,138,152,143.6
+,,FEDNa_PCP_GC quality support,FEDNa_PCP_GC quality support,0,46,30,39,44,34.4
+Zhang Guorui 汇总,\,\,\,0,284,194,177,196,178
+Zhu Ling,Z.PED.China.DEG,DEG_Basic Load NAE,,73,16,8,40,51,140
+,,DEG_Lifecycle Management,LM_Quality improvement,0,0,32,34,6,5
+,,,LM_Series support,0,0,13,0,91,5
+,,DEG_Speedboat,E_Hardware development,48,32,32,19,4,8
+,,,E_Hardware testing,0,0,0,0,0,7
+,,,E_Validation and verification (EMC / Environm test),41,30,16,16,10,5
+,,DEG_SystemMaster premium,E_Hardware development,8,1,23,34,7,3
+,,DEG_X_Spect,DEG_X_Spect,0,0,0,0,0,1
+,,,E_Hardware development,0,46,53,17,14,1
+,,,E_Hardware testing,0,0,0,0,7,0
+,,RF_Sbtr/VarEntw,RF_Sbtr/VarEntw,0,0,0,3,0,0
+Zhu Ling 汇总,\,\,\,170,125,177,163,190,175
+Zhu Peiling,Z.PED.China.DEG,DEG_Basic Load NAE,,8,0,10,0,8,12
+,,DEG_SystemMaster premium,E_Software development,80,118,166,136,168,148
+Zhu Peiling 汇总,\,\,\,88,118,176,136,176,160
+Zhuang Han,Z.PED.China.DEG,DEG_Basic Load NAE,,55,7,9,0,0,0
+,,DEG_Generic development,DEG_Generic development,3,0,0,0,0,0
+,,DEG_PRF UIM module,E_Software development,0,0,0,2,0,0
+,,DEG_Speedboat,E_Software development,37,6,9,6,0,0
+,,DEG_SystemMaster premium,E_Software development,81,91,158,152,176,140
+,,,E_Software testing,0,0,0,0,0,20
+Zhuang Han 汇总,\,\,\,176,104,176,160,176,160
+,,,,0,0,0,0,0,0
+,,,,0,0,0,0,0,0
