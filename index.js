@@ -43,7 +43,8 @@ app.all('/getList', bodyParser.json(), (req, res, next) => {
                     // 通过dirlist属性判断是否是目录
                     if (stat.isDirectory()) stat.dirList = [...dirList, f]
                     // 给浏览器window.open的path
-                    else stat.path = encodeURIComponent(path.join('/', ...dirList, f))
+                    // else stat.path = encodeURIComponent(path.join('/', ...dirList, f))
+                    else stat.path = encodeURI(path.join('/', ...dirList, f))
                     return stat
                 })
             });
